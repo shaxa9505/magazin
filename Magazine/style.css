@@ -1,0 +1,316 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.menu{
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+    background: black;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    color: white;
+    line-height: 40px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.box1{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: white;
+    box-sizing: border-box;
+    margin-right: 5px;
+
+
+}
+
+.box2{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: white;
+    box-sizing: border-box;
+    margin-right: 5px;
+
+}
+
+.box3{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: white;
+    box-sizing: border-box;
+    margin-right: 5px
+
+}
+
+.box4{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: white;
+    box-sizing: border-box;
+    margin-right: 5px;
+}
+.blok{
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+
+h3{
+    text-align: center;
+}
+
+.shaxa nav{
+    width: 1333px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.shaxa nav ul{
+    width: 950px;
+    display: flex;
+    /*justify-content: flex-start;*/
+    width: 100%;
+    height: 50px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    line-height: 50px;
+}
+
+ul li{
+    list-style: none;
+    /*display: flex;*/
+}
+
+ul li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+    /*width: 80px;*/
+    /*height: 50px;*/
+    text-align: center;
+    padding: 20px 10px;
+}
+ul li a:hover{
+    color: #a997a5;
+
+}
+
+
+header{
+    width: 100%;
+    height: 670px;
+    /*border: 1px solid black;*/
+    display: flex;
+}
+
+header .block1{
+    width: 20%;
+    /*border: 1px solid red;*/
+
+}
+
+header .block2{
+    width: 60%;
+    /*border: 1px solid red;*/
+    height: 325px;
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+    /*margin-top: 30px;*/
+
+}
+.block2 .block{
+    display: flex;
+}
+
+header .block3{
+    width: 20%;
+    /*border: 1px solid red;*/
+
+}
+
+hr{
+
+    width: 250px;
+
+}
+.block1 .shoh1 a{
+    text-decoration: none;
+    color: #a93418;
+    text-align: left;
+
+}
+
+.block .shah1{
+    width: 50%;
+    height: 325px;
+    /*border: 1px solid red;*/
+    /*display: flex;*/
+
+}
+.block .shah2{
+    width: 50%;
+    height: 325px;
+    /*border: 1px solid red;*/
+}
+.block .shah3{
+    /*border: 1px solid red;*/
+}
+
+
+
+.nike{
+    width: 100%;
+
+
+}
+
+p{
+    padding-top: 10px;
+}
+
+.rasm{
+    width: 100px;
+    height: 70px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.olma{
+    display: flex;
+}
+
+.nemo h7{
+    padding-left: 10px;
+    /*font-size: 10px;*/
+}
+
+.nemo p{
+    padding-left: 10px;
+
+}
+
+.nemo .red{
+    color: #a93418;
+    padding-left: 190px;
+
+}
+
+.shoh3 .rasm1{
+    height: 625px;
+    width: 270px;
+}
+
+.nol{
+    width: 792px;
+}
+
+section ul{
+    display: flex;
+    justify-content: space-around;
+}
+section ul li a{
+    width: 100px;
+    height: 20px;
+    background: black;
+}
+
+section .bir{
+    color: #a93418;
+}
+.bocs .katey .kate{
+    width: 120px;
+    height: 60px;
+
+}
+
+.bocs .katey{
+    width: 120px;
+    height: 180px;
+    /*border: 1px solid red;*/
+}
+.bocs{
+    display: flex;
+    justify-content: space-around;
+}
+
+span{
+    color: #a93418;
+}
+
+.nul{
+    width: 100%;
+    color: gray;
+}
+
+.bosh{
+    width: 100%;
+    height: 150px;
+    /*border: 1px solid red;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.bosh .tana{
+    width: 200px;
+    height: 150px;
+    /*border: 1px solid red;*/
+}
+
+.hr{
+    width: 200px;
+    color: gray;
+}
+.tana .div{
+    padding-top: 5px;
+}
+
+.tana p{
+    padding-bottom: 5px;
+}
+
+.tana .div{
+    color: #a93418;
+}
+
+.chiziq{
+    width: 100%;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
